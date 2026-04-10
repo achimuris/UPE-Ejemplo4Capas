@@ -41,10 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Carrera.cs" />
+    <Compile Include="CarreraDAL.cs" />
     <Compile Include="Conexion.cs" />
-    <Compile Include="Materia.cs" />
+    <Compile Include="MateriaDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades.UniversidadTresCapas\Entidades.UniversidadTresCapas.csproj">
+      <Project>{6a7be055-9c8b-48d8-993d-c757dbae36eb}</Project>
+      <Name>Entidades.UniversidadTresCapas</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

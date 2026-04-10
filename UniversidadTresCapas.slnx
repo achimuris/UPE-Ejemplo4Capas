@@ -2,5 +2,6 @@
   <Project Path="BLL.UniversidadTresCapas/BLL.UniversidadTresCapas.csproj" Id="682fb026-3cfa-4f2f-9a5c-f55a1fefb82a" />
   <Project Path="Console.UniversidadTresCapas/ConsoleApp.UniversidadTresCapas.csproj" Id="b2f64c4d-a27a-4cf1-a0b2-d61c3ee6c11a" />
   <Project Path="DAL.UniversidadTresCapas/DAL.UniversidadTresCapas.csproj" Id="a2ca0c5d-adfd-41c4-a53c-7bc2e1c6c395" />
+  <Project Path="Entidades.UniversidadTresCapas/Entidades.UniversidadTresCapas.csproj" Id="6a7be055-9c8b-48d8-993d-c757dbae36eb" />
   <Project Path="WinApp.UniversidadTresCapas/WinApp.UniversidadTresCapas.csproj" Id="f5713b94-5b47-4f60-8a66-ff67e69ab946" />
 </Solution>

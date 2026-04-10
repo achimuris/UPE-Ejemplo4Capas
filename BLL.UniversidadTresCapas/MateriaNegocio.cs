@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.UniversidadTresCapas
+namespace BLL.UniversidadTresCapas
 {
-	public class Carrera
+	public class MateriaNegocio
 	{
+
+
 	}
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL.UniversidadTresCapas
+namespace Entidades.UniversidadTresCapas
 {
-	public class Materia
+	public class MateriaBE
 	{
 		private int _id;
 
@@ -23,6 +23,5 @@ namespace BLL.UniversidadTresCapas
 			get { return _nombre; }
 			set { _nombre = value; }
 		}
-
 	}
 }

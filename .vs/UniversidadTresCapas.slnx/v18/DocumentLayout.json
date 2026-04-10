@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\dal.universidadtrescapas\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|solutionrelative:dal.universidadtrescapas\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\winapp.universidadtrescapas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\dal.universidadtrescapas\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|solutionrelative:dal.universidadtrescapas\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\winapp.universidadtrescapas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\bll.universidadtrescapas\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|solutionrelative:bll.universidadtrescapas\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A7BE055-9C8B-48D8-993D-C757DBAE36EB}|Entidades.UniversidadTresCapas\\Entidades.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\entidades.universidadtrescapas\\carrerabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7BE055-9C8B-48D8-993D-C757DBAE36EB}|Entidades.UniversidadTresCapas\\Entidades.UniversidadTresCapas.csproj|solutionrelative:entidades.universidadtrescapas\\carrerabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\winapp.universidadtrescapas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\winapp.universidadtrescapas\\frmlistarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\frmlistarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\winapp.universidadtrescapas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\dal.universidadtrescapas\\carreradal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|solutionrelative:dal.universidadtrescapas\\carreradal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\Console.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\Console.UniversidadTresCapas.csproj|solutionrelative:console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\winapp.universidadtrescapas\\frmlistarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5713B94-5B47-4F60-8A66-FF67E69AB946}|WinApp.UniversidadTresCapas\\WinApp.UniversidadTresCapas.csproj|solutionrelative:winapp.universidadtrescapas\\frmlistarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\bll.universidadtrescapas\\carreranegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|solutionrelative:bll.universidadtrescapas\\carreranegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\dal.universidadtrescapas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|solutionrelative:dal.universidadtrescapas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\bll.universidadtrescapas\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|solutionrelative:bll.universidadtrescapas\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\ConsoleApp.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\ConsoleApp.UniversidadTresCapas.csproj|solutionrelative:console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\Console.UniversidadTresCapas.csproj|C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}|Console.UniversidadTresCapas\\Console.UniversidadTresCapas.csproj|solutionrelative:console.universidadtrescapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\dal.universidadtrescapas\\materiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CA0C5D-ADFD-41C4-A53C-7BC2E1C6C395}|DAL.UniversidadTresCapas\\DAL.UniversidadTresCapas.csproj|solutionrelative:dal.universidadtrescapas\\materiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7BE055-9C8B-48D8-993D-C757DBAE36EB}|Entidades.UniversidadTresCapas\\Entidades.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\entidades.universidadtrescapas\\materiabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7BE055-9C8B-48D8-993D-C757DBAE36EB}|Entidades.UniversidadTresCapas\\Entidades.UniversidadTresCapas.csproj|solutionrelative:entidades.universidadtrescapas\\materiabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|c:\\users\\andres\\source\\repos\\upe-ejemplo4capas\\bll.universidadtrescapas\\materianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682FB026-3CFA-4F2F-9A5C-F55A1FEFB82A}|BLL.UniversidadTresCapas\\BLL.UniversidadTresCapas.csproj|solutionrelative:bll.universidadtrescapas\\materianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,91 +82,161 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\Form1.cs",
-              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\Form1.cs",
-              "RelativeToolTip": "WinApp.UniversidadTresCapas\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA9wBcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T23:56:13.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\Form1.cs",
-              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UniversidadTresCapas\\WinApp.UniversidadTresCapas\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\UniversidadTresCapas\\WinApp.UniversidadTresCapas\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T23:55:02.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Conexion.cs",
-              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Conexion.cs",
-              "RelativeToolTip": "DAL.UniversidadTresCapas\\Conexion.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAIAzwJcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T23:10:55.389Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Materia.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Materia.cs",
-              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\Materia.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Materia.cs",
-              "RelativeToolTip": "DAL.UniversidadTresCapas\\Materia.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCIAAAADAAAAAAAAAA==",
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "RelativeToolTip": "WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T22:52:14.468Z",
+              "WhenOpened": "2026-04-10T22:22:24.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carrera.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Carrera.cs",
-              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\Carrera.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Carrera.cs",
-              "RelativeToolTip": "DAL.UniversidadTresCapas\\Carrera.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "WinApp.UniversidadTresCapas\\frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T22:51:58.001Z"
+              "WhenOpened": "2026-04-10T22:22:24.725Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Materia.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\Materia.cs",
-              "RelativeDocumentMoniker": "BLL.UniversidadTresCapas\\Materia.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\Materia.cs",
-              "RelativeToolTip": "BLL.UniversidadTresCapas\\Materia.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA4wBQAAAAWAAAAAAAAAA==",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\Conexion.cs",
+              "RelativeToolTip": "DAL.UniversidadTresCapas\\Conexion.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAjwHwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T22:43:26.045Z"
+              "WhenOpened": "2026-04-10T22:22:24.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Carrera.cs",
-              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\Carrera.cs",
-              "RelativeDocumentMoniker": "BLL.UniversidadTresCapas\\Carrera.cs",
-              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\Carrera.cs",
-              "RelativeToolTip": "BLL.UniversidadTresCapas\\Carrera.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAywC8AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "MateriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\MateriaDAL.cs",
+              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\MateriaDAL.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\MateriaDAL.cs",
+              "RelativeToolTip": "DAL.UniversidadTresCapas\\MateriaDAL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIA2wC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T22:42:21.414Z"
+              "WhenOpened": "2026-04-10T22:22:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarreraDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\CarreraDAL.cs",
+              "RelativeDocumentMoniker": "DAL.UniversidadTresCapas\\CarreraDAL.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\DAL.UniversidadTresCapas\\CarreraDAL.cs",
+              "RelativeToolTip": "DAL.UniversidadTresCapas\\CarreraDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:22:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarreraNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\CarreraNegocio.cs",
+              "RelativeDocumentMoniker": "BLL.UniversidadTresCapas\\CarreraNegocio.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\CarreraNegocio.cs",
+              "RelativeToolTip": "BLL.UniversidadTresCapas\\CarreraNegocio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA8wBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:22:24.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmListarCarreras.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "RelativeToolTip": "WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T23:15:23.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "frmListarCarreras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "RelativeDocumentMoniker": "WinApp.UniversidadTresCapas\\frmListarCarreras.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\WinApp.UniversidadTresCapas\\frmListarCarreras.cs [Design]",
+              "RelativeToolTip": "WinApp.UniversidadTresCapas\\frmListarCarreras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T23:15:17.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarreraBE.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Entidades.UniversidadTresCapas\\CarreraBE.cs",
+              "RelativeDocumentMoniker": "Entidades.UniversidadTresCapas\\CarreraBE.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Entidades.UniversidadTresCapas\\CarreraBE.cs",
+              "RelativeToolTip": "Entidades.UniversidadTresCapas\\CarreraBE.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:33:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MateriaBE.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Entidades.UniversidadTresCapas\\MateriaBE.cs",
+              "RelativeDocumentMoniker": "Entidades.UniversidadTresCapas\\MateriaBE.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Entidades.UniversidadTresCapas\\MateriaBE.cs",
+              "RelativeToolTip": "Entidades.UniversidadTresCapas\\MateriaBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:37:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Console.UniversidadTresCapas\\Program.cs",
+              "RelativeDocumentMoniker": "Console.UniversidadTresCapas\\Program.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Console.UniversidadTresCapas\\Program.cs",
+              "RelativeToolTip": "Console.UniversidadTresCapas\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:56:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MateriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\MateriaNegocio.cs",
+              "RelativeDocumentMoniker": "BLL.UniversidadTresCapas\\MateriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\BLL.UniversidadTresCapas\\MateriaNegocio.cs",
+              "RelativeToolTip": "BLL.UniversidadTresCapas\\MateriaNegocio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA4wAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T22:22:24.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\source\\repos\\UPE-Ejemplo4Capas\\Console.UniversidadTresCapas\\Program.cs",
               "RelativeDocumentMoniker": "Console.UniversidadTresCapas\\Program.cs",
@@ -154,7 +244,7 @@
               "RelativeToolTip": "Console.UniversidadTresCapas\\Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAIAzwB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T22:36:46.331Z"
+              "WhenOpened": "2026-04-10T22:22:24.775Z"
             }
           ]
         }

@@ -1,6 +1,6 @@
 ﻿namespace WinApp.UniversidadTresCapas
 {
-	partial class Form1
+	partial class frmListarCarreras
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -28,34 +28,34 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.btnCrearCarrera = new System.Windows.Forms.Button();
+			this.dgvCarreras = new System.Windows.Forms.DataGridView();
+			((System.ComponentModel.ISupportInitialize)(this.dgvCarreras)).BeginInit();
 			this.SuspendLayout();
 			// 
-			// btnCrearCarrera
+			// dgvCarreras
 			// 
-			this.btnCrearCarrera.Location = new System.Drawing.Point(228, 219);
-			this.btnCrearCarrera.Name = "btnCrearCarrera";
-			this.btnCrearCarrera.Size = new System.Drawing.Size(284, 113);
-			this.btnCrearCarrera.TabIndex = 0;
-			this.btnCrearCarrera.Text = "Listar materias";
-			this.btnCrearCarrera.UseVisualStyleBackColor = true;
-			this.btnCrearCarrera.Click += new System.EventHandler(this.btnCrearCarrera_Click);
+			this.dgvCarreras.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+			this.dgvCarreras.Location = new System.Drawing.Point(12, 12);
+			this.dgvCarreras.Name = "dgvCarreras";
+			this.dgvCarreras.Size = new System.Drawing.Size(776, 426);
+			this.dgvCarreras.TabIndex = 0;
 			// 
-			// Form1
+			// frmListarCarreras
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(800, 450);
-			this.Controls.Add(this.btnCrearCarrera);
-			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Controls.Add(this.dgvCarreras);
+			this.Name = "frmListarCarreras";
+			this.Text = "frmListarCarreras";
+			this.Load += new System.EventHandler(this.frmListarCarreras_Load);
+			((System.ComponentModel.ISupportInitialize)(this.dgvCarreras)).EndInit();
 			this.ResumeLayout(false);
 
 		}
 
 		#endregion
 
-		private System.Windows.Forms.Button btnCrearCarrera;
+		private System.Windows.Forms.DataGridView dgvCarreras;
 	}
 }
-

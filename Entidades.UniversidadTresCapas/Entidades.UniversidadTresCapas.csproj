@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2F64C4D-A27A-4CF1-A0B2-D61C3EE6C11A}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Console.UniversidadTresCapas</RootNamespace>
-    <AssemblyName>Console.UniversidadTresCapas</AssemblyName>
+    <ProjectGuid>{6A7BE055-9C8B-48D8-993D-C757DBAE36EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entidades.UniversidadTresCapas</RootNamespace>
+    <AssemblyName>Entidades.UniversidadTresCapas</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,21 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="CarreraBE.cs" />
+    <Compile Include="MateriaBE.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BLL.UniversidadTresCapas\BLL.UniversidadTresCapas.csproj">
-      <Project>{682fb026-3cfa-4f2f-9a5c-f55a1fefb82a}</Project>
-      <Name>BLL.UniversidadTresCapas</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Entidades.UniversidadTresCapas\Entidades.UniversidadTresCapas.csproj">
-      <Project>{6a7be055-9c8b-48d8-993d-c757dbae36eb}</Project>
-      <Name>Entidades.UniversidadTresCapas</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

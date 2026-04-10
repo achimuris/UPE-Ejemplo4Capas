@@ -41,14 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Carrera.cs" />
-    <Compile Include="Materia.cs" />
+    <Compile Include="CarreraNegocio.cs" />
+    <Compile Include="MateriaNegocio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL.UniversidadTresCapas\DAL.UniversidadTresCapas.csproj">
       <Project>{a2ca0c5d-adfd-41c4-a53c-7bc2e1c6c395}</Project>
       <Name>DAL.UniversidadTresCapas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades.UniversidadTresCapas\Entidades.UniversidadTresCapas.csproj">
+      <Project>{6a7be055-9c8b-48d8-993d-c757dbae36eb}</Project>
+      <Name>Entidades.UniversidadTresCapas</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

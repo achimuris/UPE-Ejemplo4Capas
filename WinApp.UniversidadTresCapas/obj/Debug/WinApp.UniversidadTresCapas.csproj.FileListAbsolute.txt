@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\WinApp.UniversidadTresCapas.exe.config
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\WinApp.UniversidadTresCapas.exe
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\WinApp.UniversidadTresCapas.pdb
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.Form1.resources
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.Properties.Resources.resources
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.exe
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.UniversidadTresCapas.pdb
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\BLL.UniversidadTresCapas.dll
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\DAL.UniversidadTresCapas.dll
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\BLL.UniversidadTresCapas.pdb
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\bin\Debug\DAL.UniversidadTresCapas.pdb
+C:\Users\Andres\source\repos\UniversidadTresCapas\WinApp.UniversidadTresCapas\obj\Debug\WinApp.U.1CADC377.Up2Date

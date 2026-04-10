@@ -1,0 +1,6 @@
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\bin\Debug\DAL.UniversidadTresCapas.dll
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\bin\Debug\DAL.UniversidadTresCapas.pdb
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\obj\Debug\DAL.UniversidadTresCapas.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\obj\Debug\DAL.UniversidadTresCapas.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\obj\Debug\DAL.UniversidadTresCapas.dll
+C:\Users\Andres\source\repos\UniversidadTresCapas\DAL.UniversidadTresCapas\obj\Debug\DAL.UniversidadTresCapas.pdb

@@ -1,4 +1,5 @@
 ﻿using BLL.UniversidadTresCapas;
+using BLL.UniversidadTresCapas.Excepciones;
 using Entidades.UniversidadTresCapas;
 using System;
 using System.Collections.Generic;
@@ -34,16 +35,21 @@ namespace WinApp.UniversidadTresCapas
 			entidadNueva.NombreDecano = txtNombreDecano.Text;
 			entidadNueva.Nombre=txtNombreCarrera.Text;
 
-			if (objGestorCarrera.CrearCarrera(entidadNueva))
-			{
-				MessageBox.Show("¡Se ha creado una nueva carrera!");
-			}
-			else
-			{
-				MessageBox.Show("¡Caramba, no se ha podido crear la nueva carrera!");
-			}
+			try { 
+				if (objGestorCarrera.CrearCarrera(entidadNueva))
+				{
+					MessageBox.Show("¡Se ha creado una nueva carrera!");
+				}
+				else
+				{
+					MessageBox.Show("¡Caramba, no se ha podido crear la nueva carrera!");
+				}
+            }catch(ExcepcionDeNegocio ex)
+            {
+                MessageBox.Show(ex.MensajeNegocio);
+            }
 
-			LimpiarCampos();
+            LimpiarCampos();
 		}
 
 		private void btnVerCarreras_Click(object sender, EventArgs e)
